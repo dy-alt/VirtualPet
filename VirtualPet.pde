@@ -6,10 +6,6 @@ public void setup() {
 
 public void draw() {
   background(192);
-   
-  
-  System.out.println(y);
-  System.out.println("yo");
   cursor(CROSS);
   noStroke();
   fill(141,142,137);
